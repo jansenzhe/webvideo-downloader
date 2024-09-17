@@ -62,7 +62,7 @@
 直接下载压缩包，或使用 git clone：
 
 ```
-git clone https://github.com/jaysonlong/webvideo-downloader.git
+git clone https://github.com/jansenzhe/webvideo-downloader.git
 ```
 
 ##### *安装项目*
